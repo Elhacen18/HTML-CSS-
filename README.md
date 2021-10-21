@@ -1,7 +1,7 @@
 # Frontend Mentor - 3-column preview card component
-
+You can preview live preview of this repo at https://html-css.pages.dev/
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
-
+ 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
