@@ -1,5 +1,5 @@
 # Frontend Mentor - 3-column preview card component
-You can viewe live preview of this repo at https://html-css.pages.dev/
+You can viewe live preview of this repo at https://elhacen18.github.io/HTML-CSS-/
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
  
 ## Welcome! 👋
